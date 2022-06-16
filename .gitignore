@@ -1,2 +1,15 @@
-Img/
-coco_dataset/
+Img/ArtificialSamples/*.png
+Img/RawOrangeSignImgs/*.png
+Img/Templates/Daily/*.png
+Img/Templates/Frequent/*.png
+Img/Templates/Uncommon/*.png
+Img/TrainingSet/*.jpg
+
+
+
+coco_dataset/images/chosenImages/*.jpg
+coco_dataset/images/removedImages/*.jpg
+coco_dataset/images/train2017/*.jpg
+coco_dataset/images/val2017/*.jpg
+
+
