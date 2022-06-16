@@ -13,3 +13,4 @@ coco_dataset/images/train2017/*.jpg
 coco_dataset/images/val2017/*.jpg
 
 
+*.zip
