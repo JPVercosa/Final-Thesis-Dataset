@@ -1,8 +1,8 @@
-Img/ArtificialSamples/*.png
-Img/RawOrangeSignImgs/*.png
-Img/Templates/Daily/*.png
-Img/Templates/Frequent/*.png
-Img/Templates/Uncommon/*.png
+Img/ArtificialSamples/*.jpg
+Img/RawOrangeSignImgs/*.jpg
+Img/Templates/Daily/*.jpg
+Img/Templates/Frequent/*.jpg
+Img/Templates/Uncommon/*.jpg
 Img/TrainingSet/*.jpg
 
 
