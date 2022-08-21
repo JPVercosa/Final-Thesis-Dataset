@@ -4,13 +4,9 @@ Img/Templates/Daily/*.jpg
 Img/Templates/Frequent/*.jpg
 Img/Templates/Uncommon/*.jpg
 Img/TrainingSet/*.jpg
+Img/NewTrainingSet/*.jpg
 
 
-
-coco_dataset/images/chosenImages/*.jpg
-coco_dataset/images/removedImages/*.jpg
-coco_dataset/images/train2017/*.jpg
-coco_dataset/images/val2017/*.jpg
-
+coco_dataset/chosenImages/*.jpg
 
 *.zip
