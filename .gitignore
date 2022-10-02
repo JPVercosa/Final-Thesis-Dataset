@@ -5,6 +5,9 @@ Img/Templates/Frequent/*.jpg
 Img/Templates/Uncommon/*.jpg
 Img/TrainingSet/*.jpg
 Img/NewTrainingSet/*.jpg
+simple_dataset/ArtificialSamples/*.jpg  
+simple_dataset/RawOrangeSignImgs/*.jpg
+simple_dataset/TrainingSet/*.jpg    
 
 
 coco_dataset/chosenImages/*.jpg
