@@ -1,12 +1,12 @@
-Img/ArtificialSamples/*.jpg
-Img/RawOrangeSignImgs/*.jpg
-Img/Templates/Daily/*.jpg
-Img/Templates/Frequent/*.jpg
-Img/Templates/Uncommon/*.jpg
-Img/TrainingSet/*.jpg
-Img/NewTrainingSet/*.jpg
+data/ArtificialSamples/*.jpg
+data/orangeTemplates/*.jpg
+data/Templates/Daily/*.jpg
+data/Templates/Frequent/*.jpg
+data/Templates/Uncommon/*.jpg
+data/TrainingSet/*.jpg
+data/NewTrainingSet/*.jpg
 simple_dataset/ArtificialSamples/*.jpg  
-simple_dataset/RawOrangeSignImgs/*.jpg
+simple_dataset/orangeTemplates/*.jpg
 simple_dataset/TrainingSet/*.jpg    
 
 
