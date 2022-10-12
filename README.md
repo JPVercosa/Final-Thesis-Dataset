@@ -1,11 +1,11 @@
-# Final-Thesis-CNN
+# Trabalho de Conclusão de Curso - Criação dos conjuntos de dados
  
 Esse Git contém o código relacionado a geração dos conjuntos de dados utilizados no Trabalho de Conclusão de Curso: **"Redes neurais convolucionais na detecção e classificação de placas de trânsito brasileiras"**. 
 
 Foram gerados três conjuntos de dados:
 
 - simpleDataset: conjunto com total de 657 imagens (382 artificiais + 275 reais) e 15 classes
-- normalDataset: conjunto com total de 4.022 imagens (3747 artificiais + 275 reais) e 242 classes
+- normalDataset: conjunto com total de 4.022 imagens (3.747 artificiais + 275 reais) e 242 classes
 - hugeDataset: conjunto com total de 67.655 imagens (67.380 artificiais + 275 reais) e 242 classes
 
 Os conjuntos de dados com suas respectivas anotações estão disponíveis para download [aqui](https://drive.google.com/drive/folders/1-GTAjtc_tkahRe-0zcQx3Kfso2R_0Nq7?usp=sharing) através do Google Drive.
@@ -33,4 +33,4 @@ Na pasta `ArtificialSamples` serão salvas as imagens geradas pelo algoritmo, e 
 
 As imagens de fundo são de domínio público e foram filtradas a partir do conjunto do [2017 Train images [118K/18GB]](https://cocodataset.org/#download).
 As imagens são geradas e rotuladas a partir dos templates selecionados, da pasta `orangeTemplates` que também podem ser encontrados [neste Drive](https://drive.google.com/drive/folders/1-GTAjtc_tkahRe-0zcQx3Kfso2R_0Nq7).
-O laranja escolhido para a cor de fundo no programa [paint.net](https://www.getpaint.net/) possui os valores RGB(255, 16, 0) e HSV(24,100,100), mas ao ser reconhecido pelo open.cv o valor HSV vale HSV(12,255,255), devido aos limites diferentes.
+O laranja escolhido para a cor de fundo no programa [paint.net](https://www.getpaint.net/) possui os valores RGB(255, 16, 0) e HSV(24,100,100), mas ao ser reconhecido pelo open.cv o valor HSV vale HSV(12,255,255), devido aos limites diferentes de intervalo que cada um usa.
