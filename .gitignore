@@ -10,6 +10,6 @@ simple_dataset/orangeTemplates/*.jpg
 simple_dataset/TrainingSet/*.jpg    
 
 
-coco_dataset/chosenImages/*.jpg
+coco_dataset/*.jpg
 
 *.zip
