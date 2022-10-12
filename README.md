@@ -1,6 +1,6 @@
 # Final-Thesis-CNN
  
-Esse Git contém o código relacionado a geração dos conjuntos de dados utilizados no Trabalho de Conclusão de Curso: "Redes neurais convolucionais na detecção e classificação de placas de trânsito brasileiras". 
+Esse Git contém o código relacionado a geração dos conjuntos de dados utilizados no Trabalho de Conclusão de Curso: **"Redes neurais convolucionais na detecção e classificação de placas de trânsito brasileiras"**. 
 
 Foram gerados três conjuntos de dados:
 
@@ -8,7 +8,7 @@ Foram gerados três conjuntos de dados:
 - normalDataset: conjunto com total de 4.022 imagens (3747 artificiais + 275 reais) e 242 classes
 - hugeDataset: conjunto com total de 67.655 imagens (67.380 artificiais + 275 reais) e 242 classes
 
-Os conjuntos de dados com suas respectivas anotações estão disponíveis para download [aqui](https://drive.google.com/drive/folders/1-GTAjtc_tkahRe-0zcQx3Kfso2R_0Nq7?usp=sharing) através Google Drive.
+Os conjuntos de dados com suas respectivas anotações estão disponíveis para download [aqui](https://drive.google.com/drive/folders/1-GTAjtc_tkahRe-0zcQx3Kfso2R_0Nq7?usp=sharing) através do Google Drive.
 
 O arquivo [creatingTrainingImages.ipynb](https://github.com/JPVercosa/Final-Thesis-Dataset/blob/main/creatingTrainingImages.ipynb) contém o algoritmo utilizado para gerar as imagens artificialmente e que também concatena as anotações das imagens originais ([annotations.json](https://github.com/JPVercosa/Final-Thesis-Dataset/blob/main/data/annotations.json)) com as anotações geradas artificialmente. Para ele funcionar corretamente é necessário que as imagens de fundo estejam em uma pasta no diretório raiz chamada `coco_dataset` e que exista no diretório `data` as pastas `ArtificialSamples` e `orangeTemplates`.
 
