@@ -2,6 +2,8 @@
  
 This Git contains the code related to the generation of the datasets used in the Final Thesis Work: **"Convolutional neural networks in the detection and classification of brazilian traffic signs"**
 
+The full article can be accessed here: [PDF Article](https://drive.google.com/file/d/1hccMbV0pJtdHe3xxYjwE9V5QkzNtdWnn/view?usp=share_link)
+
 Three sets of data were generated:
 
 - simpleDataset: set with a total of 657 images (382 artificial + 275 real ones) and 15 classes
