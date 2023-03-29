@@ -2,6 +2,8 @@
  
 Esse Git contém o código relacionado a geração dos conjuntos de dados utilizados no Trabalho de Conclusão de Curso: **"Redes neurais convolucionais na detecção e classificação de placas de trânsito brasileiras"**. 
 
+O texto completo pode ser encontrado nesse link: [Artigo em PDF](https://drive.google.com/file/d/1hccMbV0pJtdHe3xxYjwE9V5QkzNtdWnn/view?usp=share_link)
+
 Foram gerados três conjuntos de dados:
 
 - simpleDataset: conjunto com total de 657 imagens (382 artificiais + 275 reais) e 15 classes
