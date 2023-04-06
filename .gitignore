@@ -1,13 +1,12 @@
 data/ArtificialSamples/*.jpg
+data/ArtificialSamples-copy/*.jpg
 data/orangeTemplates/*.jpg
 data/Templates/Daily/*.jpg
 data/Templates/Frequent/*.jpg
 data/Templates/Uncommon/*.jpg
 data/TrainingSet/*.jpg
 data/NewTrainingSet/*.jpg
-simple_dataset/ArtificialSamples/*.jpg  
-simple_dataset/orangeTemplates/*.jpg
-simple_dataset/TrainingSet/*.jpg    
+
 
 
 coco_dataset/*.jpg
